@@ -1,4 +1,4 @@
-// Tyuiu.IbrayevAA.Sprint0.Task5.V0.Lib.cpp : Defines the functions for the static library.
+// Tyuiu.IbrayevAA.Sprint0.Task6.V0.Lib.cpp : Defines the functions for the static library.
 //
 
 #include "pch.h"
